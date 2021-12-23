@@ -1,0 +1,52 @@
+body {
+	font-family: Arial, sans-serif;
+}
+h1 {
+		font-size:20px;
+}
+h1 span {
+	display:block;
+	font-size:18;
+	font-weight: bolder;
+}
+.sec, .row {
+border:1px solid red;
+padding:30px 0px;
+}
+.form {
+	height:315px;
+	border:1px solid grey;
+	border-radius: 20px;
+	overflow: hidden;
+	padding:35px 20px;
+	margin-right:;
+}
+.video {
+	overflow: hidden;
+	border-radius: 20px;
+}
+.form-header {
+	font-family: Arial;
+	font-weight: bolder;
+	padding-top:15px;
+}
+.form-control {
+	margin:15px 0px;
+}
+.btn {
+	margin-top:10px;
+}
+.section {
+	margin-top:20px;
+}
+.sec {
+padding:40px 20px;
+}
+.section-2-header {
+	font-family: Arial;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+.adv {
+	height: 100px;
+}
